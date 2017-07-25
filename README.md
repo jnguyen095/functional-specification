@@ -1,3 +1,5 @@
 # Project Management
 
-Reference http://www.its-all-design.com
+Reference: 
+1. http://www.its-all-design.com
+2. https://www.teamgantt.com/guide-to-project-management
